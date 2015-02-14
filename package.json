@@ -1,0 +1,20 @@
+{
+    "name": "enbot_telegram",
+    "version": "0.1.0",
+    "description": "telegram part of enbot",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/feugenix/enbot_telegram.git"
+    },
+    "engines": {
+        "node": "0.10"
+    },
+    "dependencies": {
+        "telegram.link": "~0.2.5"
+    },
+    "devDependencies": {
+        "jscs": "~1.5.9",
+        "jshint": "~2.1.4"
+    }
+}
